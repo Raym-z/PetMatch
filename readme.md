@@ -48,3 +48,21 @@ Follow the steps below to get started:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Raym-z/PetMatch
+   ```
+2. **Navigate to the project directory**:
+  ```bash
+  cd PetMatch
+```
+3. **Install dependencies**:
+  ```bash
+  npm install
+  ```
+4. **Run the project**
+  ```bash
+  npm start
+  ```
+5. **Testing**
+  ```bash
+  npm test
+```
+
