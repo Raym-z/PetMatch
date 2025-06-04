@@ -51,8 +51,8 @@ Follow the steps below to get started:
    ```
 2. **Navigate to the project directory**:
   ```bash
-  cd PetMatch
-```
+    cd PetMatch
+  ```
 3. **Install dependencies**:
   ```bash
   npm install
@@ -64,5 +64,5 @@ Follow the steps below to get started:
 5. **Testing**
   ```bash
   npm test
-```
+  ```
 
