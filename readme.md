@@ -10,7 +10,8 @@ Built with the tools and technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&amp;logo=JavaScript&amp;logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&amp;logo=Node.js&amp;logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&amp;logo=Express&amp;logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&amp;logo=MongoDB&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&amp;logo=HTML5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&amp;logo=CSS3&amp;logoColor=white)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -38,8 +39,7 @@ Key Features:
 
 ### Prerequisites
 This project requires the following dependencies:
-- **Programming Language**: JavaScript (Node.js)
-- **Database**: MongoDB
+- **Programming Language**: Html, Css, JavaScript (Node.js)
 - **Package Manager**: npm
 
 ### Installation
