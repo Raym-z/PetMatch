@@ -56,12 +56,18 @@ Follow the steps below to get started:
    ```
 
 5. **Install dependencies**:
-   ```npm install```
+   ```bash
+   npm install
+   ```
 
-6. **Run the project**:
-   ```npm start```
+7. **Run the project**:
+   ```bash
+   npm start
+   ```
 
-7. **Testing**:
-   ```npm test```
+9. **Testing**:
+   ```bash
+   npm test
+   ```
 
 
