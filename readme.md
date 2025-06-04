@@ -46,18 +46,18 @@ This project requires the following dependencies:
 Follow the steps below to get started:
 
 1. **Clone the repository**:
-   `git clone https://github.com/Raym-z/PetMatch`
+   ```git clone https://github.com/Raym-z/PetMatch```
 
 2. **Navigate to the project directory**:
-   `cd PetMatch`
+   ```cd PetMatch```
 
 3. **Install dependencies**:
-   `npm install`
+   ```npm install```
 
 4. **Run the project**:
-   `npm start`
+   ```npm start```
 
 5. **Testing**:
-   `npm test`
+   ```npm test```
 
 
