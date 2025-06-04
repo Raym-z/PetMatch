@@ -51,15 +51,17 @@ Follow the steps below to get started:
    ```
 
 3. **Navigate to the project directory**:
-   ```cd PetMatch```
+   ```bash
+   cd PetMatch
+   ```
 
-4. **Install dependencies**:
+5. **Install dependencies**:
    ```npm install```
 
-5. **Run the project**:
+6. **Run the project**:
    ```npm start```
 
-6. **Testing**:
+7. **Testing**:
    ```npm test```
 
 
