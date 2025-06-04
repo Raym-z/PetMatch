@@ -48,7 +48,7 @@ Follow the steps below to get started:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Raym-z/PetMatch
-   ```/bash
+   ```
 
 3. **Navigate to the project directory**:
    ```cd PetMatch```
